@@ -9,6 +9,7 @@ def greet(variable)
 	=> "Hello, Azamat!"
 =end
 	# write your code here
+	"Hello, #{variable}!"
 end
 
 
@@ -24,4 +25,5 @@ def hello
 	=> "Hello!"
 =end
 	# write your code here
+	"Hello!"
 end
